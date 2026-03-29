@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Für dich, Pookie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container" id="main-container">
+        <h2 id="top-text">Pookie, let's take a little trip down Memory Lane...</h2>
+
+        <div class="image-section">
+            <button class="nav-btn" id="prev-btn">❮</button>
+            <div class="image-frame">
+                <img id="display-image" src="images/bild1.jpg" alt="Unsere Erinnerung">
+            </div>
+            <button class="nav-btn" id="next-btn">❯</button>
+        </div>
+
+        <p id="bottom-text">Jedes Bild erzählt eine Geschichte...</p>
+    </div>
+
+    <div class="hidden" id="question-screen">
+        <h1>Verzeihst du mir? 🥺</h1>
+        <div class="button-group">
+            <button id="yes-btn">Ja</button>
+            <button id="no-btn">Nein</button>
+        </div>
+    </div>
+
+    <div class="hidden" id="thanks-screen">
+        <h1 class="big-thanks">Dankeschön! ❤️</h1>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
