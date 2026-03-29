@@ -1,29 +1,29 @@
 // Daten für die Slides (Du kannst die Texte hier anpassen!)
-const slides =[
+const slides = [
     { 
-        top: "Pookie, erinnerst du dich an unseren ersten Moment?", 
-        img: "images/img1.jpg", 
-        bottom: "Hier fing alles an..." 
+        top: "Pookie, lass uns eine kleine Reise machen...", 
+        img: "images/img1.jpeg", // <--- HIER GEÄNDERT
+        bottom: "Jedes Bild hält einen Moment fest, in dem wir glücklich waren." 
     },
     { 
-        top: "Dieses Lächeln von dir...", 
-        img: "images/img2.jpg", 
-        bottom: "Ich liebe es mehr als alles andere." 
+        top: "Erinnerst du dich an diesen Tag?", 
+        img: "images/img2.jpeg", // <--- HIER GEÄNDERT
+        bottom: "Du hast so schön gelächelt." 
     },
     { 
-        top: "Egal was passiert ist,", 
-        img: "images/img3.jpg", 
-        bottom: "Du bist meine Nummer eins." 
+        top: "In jedem Universum...", 
+        img: "images/img3.jpeg", // <--- HIER GEÄNDERT
+        bottom: "Würde ich mich immer wieder für dich entscheiden." 
     },
     { 
-        top: "Ich möchte noch so viele Momente mit dir sammeln.", 
-        img: "images/img4.jpg", 
-        bottom: "Du machst mich zum glücklichsten Menschen." 
+        top: "Du bedeutest mir die Welt!", 
+        img: "images/img4.jpeg", // <--- HIER GEÄNDERT
+        bottom: "Ich verspreche, mein Bestes zu geben." 
     },
     { 
-        top: "Können wir bitte wieder so strahlen wie hier?", 
-        img: "images/img5.jpg", 
-        bottom: "Ich verspreche dir, ich werde an mir arbeiten." 
+        top: "Danke für deine Geduld.", 
+        img: "images/img5.jpeg", // <--- HIER GEÄNDERT
+        bottom: "Ich möchte nie der Grund sein, warum du aufhörst zu strahlen." 
     }
 ];
 let currentIndex = 0;
