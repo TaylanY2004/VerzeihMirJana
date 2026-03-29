@@ -3,7 +3,7 @@ const slides = [
     { 
         top: "Hallo Pookie bitte hör mir zu und les alles durch.(Damit das erste bild richtig erscheint musst du einmal nach rechts gehen und dann zurück)", 
         img: "images/img1.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Erinnerst du dich an diese Bild von unserem ersten Date? Ich weiß noch ganz genau wie nervös ich war weil sich die schönste und lustiggste Frau der Welt entschiedn hat mit mir auf ein Date zu gehen" 
+        bottom: "Erinnerst du dich an diese Bild von unserem ersten Date? Wie schön du hier lächelst. Ich weiß noch ganz genau wie nervös ich war weil sich die schönste und lustiggste Frau der Welt entschiedn hat mit mir auf ein Date zu gehen" 
     },
     { 
         top: "Dieses lächeln bringt mich noch heute jedes mal zum schmmelzen und ich will NIE der Grund dafür sein dass du aufhörst zu lächeln", 
