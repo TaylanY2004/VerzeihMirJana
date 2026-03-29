@@ -23,7 +23,7 @@ const slides = [
     { 
         top: "BITTE VERZEIH DEINEM VOLLIDIOT TOLLPATSCH FREUND", 
         img: "images/img5.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Ich war die letzten tag einfach unruhig weil es dir nicht gut ging und ich dachte daws ich der grund dafür bin, weshalb ich verunsichert war. Dabei hab ich hinterfragt ob du mit mir unzufrienden warst, darum hab ich dann so ein scheiß gesagt wie heute. TUT MIR ECHT LEID  " 
+        bottom: "Ich war die letzten tag einfach unruhig weil es dir nicht gut ging und ich dachte das ich der Grund dafür bin, weshalb ich verunsichert war. Dabei hab ich hinterfragt ob du mit mir unzufrienden warst und aus dem Grund hab ich dann so ein Müll geredet ohne nachzudenken. TUT MIR ECHT LEID  " 
     }
 ];
 let currentIndex = 0;
