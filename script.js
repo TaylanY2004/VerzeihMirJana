@@ -1,29 +1,29 @@
 // Daten für die Slides (Du kannst die Texte hier anpassen!)
 const slides = [
     { 
-        top: "Pookie, lass uns eine kleine Reise machen...", 
+        top: "Hallo Pookie bitte hör mir zu und les alles durch.", 
         img: "images/img1.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Jedes Bild hält einen Moment fest, in dem wir glücklich waren." 
+        bottom: "Erinnerst du dich an diese Bild von unserem ersten Date? Ich weiß noch ganz genau wie nervös ich war weil sich die schönste und lustiggste Frau der Welt entschiedn hat mit mir auf ein Date zu gehen" 
     },
     { 
-        top: "Erinnerst du dich an diesen Tag?", 
+        top: "Dieses lächeln bringt mich noch heute jedes mal zum schmmelzen und ich will NIE der Grund dafür sein dass du aufhörst zu lächeln", 
         img: "images/img2.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Du hast so schön gelächelt." 
+        bottom: "αστέρι μου" 
     },
     { 
-        top: "In jedem Universum...", 
+        top: "In jedem Universum und in jedem Leben...", 
         img: "images/img3.jpeg", // <--- HIER GEÄNDERT
         bottom: "Würde ich mich immer wieder für dich entscheiden." 
     },
     { 
-        top: "Du bedeutest mir die Welt!", 
+        top: "Ja, manchmal sage oder mache ich dumme Sachen die dich traurig machen wie zB heute...", 
         img: "images/img4.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Ich verspreche, mein Bestes zu geben." 
+        bottom: "aber ICH VERSPRECHE DIR ICH GEBE MEIN BESTES JEDEN MOMENT MIT DIR ZU GENIEßen, FÜR DICH IMMER DA ZUSEIN UND DICH ZU LIEBEN ❤️" 
     },
     { 
-        top: "Danke für deine Geduld.", 
+        top: "BITTE VERZEIH DEINEM VOLLIDIOT TOLLPATSCH FREUND", 
         img: "images/img5.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Ich möchte nie der Grund sein, warum du aufhörst zu strahlen." 
+        bottom: "Ich war die letzten tag einfach unruhig weil es dir nicht gut ging und ich dachte daws ich der grund dafür bin, weshalb ich verunsichert war. Dabei hab ich hinterfragt ob du mit mir unzufrienden warst, darum hab ich dann so ein scheiß gesagt wie heute. TUT MIR ECHT LEID  " 
     }
 ];
 let currentIndex = 0;
