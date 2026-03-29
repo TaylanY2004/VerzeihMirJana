@@ -8,22 +8,22 @@ const slides = [
     { 
         top: "Dieses lächeln bringt mich noch heute jedes mal zum schmmelzen und ich will NIE der Grund dafür sein dass du aufhörst zu lächeln", 
         img: "images/img2.jpeg", // <--- HIER GEÄNDERT
-        bottom: "αστέρι μου" 
+        bottom: "αστέρι μου Du bist mein Stern, der mich nachts nach Hause führt, egal wie dunkel der Weg auch sein mag" 
     },
     { 
         top: "In jedem Universum und in jedem Leben...", 
         img: "images/img3.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Würde ich mich immer wieder für dich entscheiden." 
+        bottom: "würde ich mich immer wieder für dich entscheiden." 
     },
     { 
-        top: "Ja, manchmal sage oder mache ich dumme Sachen die dich traurig machen wie zB heute...", 
+        top: "Ja, manchmal sage oder mache ich dumme Sachen die dich traurig machen wie zB heute, aber...", 
         img: "images/img4.jpeg", // <--- HIER GEÄNDERT
-        bottom: "aber ICH VERSPRECHE DIR ICH GEBE MEIN BESTES JEDEN MOMENT MIT DIR ZU GENIEßen, FÜR DICH IMMER DA ZUSEIN UND DICH ZU LIEBEN ❤️" 
+        bottom: "ICH VERSPRECHE DIR ICH GEBE MEIN BESTES JEDEN MOMENT MIT DIR ZU GENIEßEN, FÜR DICH IMMER DA ZUSEIN UND DICH ZU LIEBEN ❤️" 
     },
     { 
         top: "BITTE VERZEIH DEINEM VOLLIDIOT TOLLPATSCH FREUND", 
         img: "images/img5.jpeg", // <--- HIER GEÄNDERT
-        bottom: "Ich war die letzten tag einfach unruhig weil es dir nicht gut ging und ich dachte das ich der Grund dafür bin, weshalb ich verunsichert war. Dabei hab ich hinterfragt ob du mit mir unzufrienden warst und aus dem Grund hab ich dann so ein Müll geredet ohne nachzudenken. TUT MIR ECHT LEID  " 
+        bottom: "Ich war die letzten tag einfach unruhig weil es dir nicht gut ging und ich dachte das ich der Grund dafür bin, weshalb ich verunsichert war. Dabei hab ich hinterfragt ob du mit mir unzufrienden warst und aus dem Grund hab ich dann so ein Müll geredet ohne nachzudenken. TUT MIR UNENDLICH LEID  " 
     }
 ];
 let currentIndex = 0;
